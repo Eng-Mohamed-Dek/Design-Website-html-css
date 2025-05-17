@@ -411,7 +411,7 @@ footer .footer-head p {
     }
 
     .hero-text p {
-        max-width: 350px;
+        max-width: 300px;
         line-height: 1.6;
     }
 
@@ -424,7 +424,7 @@ footer .footer-head p {
     }
 
     .course-card {
-        width: 320px;
+        width: 300px;
         margin-bottom: 20px;
     }
 
@@ -438,7 +438,7 @@ footer .footer-head p {
     }
 
     .wcu-card {
-        width: 330px;
+        width: 300px;
         margin-bottom: 20px;
     }
 
@@ -448,7 +448,7 @@ footer .footer-head p {
     }
 
     .testimonials-card {
-        width: 330px;
+        width: 300px;
         margin-bottom: 20px;
     }
 
@@ -482,11 +482,11 @@ footer .footer-head p {
     }
 
     .form textarea {
-        width: 320px;
+        width: 270px;
     }
 
     .form input {
-        width: 320px;
+        width: 270px;
     }
 
     /* footer style  */
